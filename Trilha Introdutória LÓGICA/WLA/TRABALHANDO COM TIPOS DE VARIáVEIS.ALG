@@ -1,4 +1,4 @@
-Algoritmo "Trabalhando com tipos de variáveis"
+ Algoritmo "Trabalhando com tipos de variáveis"
 
 Var
 
