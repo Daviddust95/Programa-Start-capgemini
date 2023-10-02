@@ -1,7 +1,7 @@
 Exercícios
 
 
-Faça um algoritmo que receba dois números e ao final mostre o resultado da
+1 - Faça um algoritmo que receba dois números e ao final mostre o resultado da
 soma dos dois números lidos;
 
 //Entrada de dados:
@@ -28,7 +28,7 @@ Escrever soma
 
 
 
-Faça um algoritmo para informar à Joãozinho se ele foi aprovado na matéria de
+2 - Faça um algoritmo para informar à Joãozinho se ele foi aprovado na matéria de
 Lógica para programação. Joãozinho fez 3 provas e a média necessária para ser
 aprovado é de 7;
 
@@ -60,3 +60,75 @@ Se Media >= 7 então
         Escreva "aprovado"
 senão 
         Escreva "reprovado"
+        
+        
+3 - Faça um algoritmo para preparar um macarrão instantâneo. Parta do principio
+que você está na cozinha e deve prepará-lo e servi-lo.
+
+// Entrada de dados:
+	Pacote de macarrão instantâneo
+	Água
+
+// Processamento:
+	Ferva uma quantidade suficiente de água em uma panela (geralmente cerca de 500 ml).
+
+	Quando a água estiver fervendo, quebre o macarrão e coloque-o na panela em água fervente.
+
+	 Cozinhe o macarrão por cerca de 2 a 4 minutos, mexendo ocasionalmente. Verifique as instruções na embalagem para o tempo exato.
+
+// Saída:
+	Escorra a água usando um escorredor.
+
+	Transfira o macarrão cozido para um prato ou tigela.
+
+	Sirva o macarrão instantâneo.
+	
+	
+4 - Escreva um algoritmo para determinar o consumo médio de um automóvel
+sendo fornecida a distância total percorrida pelo automóvel e o total de
+combustível gasto;
+
+// Entrada de dados:
+Distância total percorrida (em km)
+Total de combustível gasto (em litros)
+
+// Processamento:
+Solicite a entrada da distância total percorrida.
+Solicite a entrada do total de combustível gasto.
+
+Consumo Médio = Distância Total / Total de Combustível
+
+// Saída:
+Exiba o consumo médio na tela.
+
+
+5 - Faça um algoritmo para realizar a tarefa de tomar banho;
+
+
+// Entradas:
+- água
+- Sabonete
+- Toalha
+
+// Processamento:
+Ligue o chuveiro e ajuste a água de acordo com sua preferência.
+
+Molhe seu corpo completamente com a água do chuveiro.
+
+Aplique sabonete nas mãos ou em uma esponja.
+
+Lave o corpo, certificando-se de cobrir todas as áreas, incluindo o rosto, cabelo, axilas, genitais, pernas, braços, etc.
+
+Enxágue todo o sabonete.
+
+Desligue o chuveiro.
+
+Saia do chuveiro e use uma toalha para se secar, começando pela cabeça e depois o corpo.
+
+
+// Saídas:
+- Você completou a tarefa de tomar banho.
+
+
+
+
