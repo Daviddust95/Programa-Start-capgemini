@@ -1,4 +1,4 @@
-Algoritmo "Estruturas Condicionaisd"
+Algoritmo "Estruturas Condicionais"
 
 Var
 nota1, nota2, nota3, media: real
