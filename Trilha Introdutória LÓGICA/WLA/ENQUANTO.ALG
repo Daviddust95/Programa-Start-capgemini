@@ -8,8 +8,8 @@ Inicio
 
 AlturaMarcelo <- 1.20
 AlturaJoao <- 1.05
-CrescimentoAnualMarcelo <- 0,05
-CrescimentoAnualJoao <- 0,07
+CrescimentoAnualMarcelo <- 0.05
+CrescimentoAnualJoao <- 0.07
 idade <- 8
 
 enquanto AlturaMarcelo >= AlturaJoao faca
