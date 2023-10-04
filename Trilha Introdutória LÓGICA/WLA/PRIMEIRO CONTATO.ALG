@@ -5,7 +5,7 @@ Var
 
 
 Inicio
-     EscrevaL ("Olá Mundo!")
-     EscrevaL ("Tchau Mundo!")
+   EscrevaL ("Olá Mundo!")
+   EscrevaL ("Tchau Mundo!")
 
 Fimalgoritmo

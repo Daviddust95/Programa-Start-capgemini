@@ -1,9 +1,9 @@
- Algoritmo "Trabalhando com tipos de variáveis"
+Algoritmo "Trabalhando com tipos de variáveis"
 
 Var
 
-  palavra1, palavra2, palavra3 : caractere
-  numero1, numero2, numero3: inteiro
+   palavra1, palavra2, palavra3 : caractere
+   numero1, numero2, numero3: inteiro
 
 
 Inicio
@@ -19,13 +19,13 @@ Inicio
    numero3  <- numero1  + numero2
    EscrevaL(palavra3)
    EscrevaL(numero3)
-   fimalgoritmo
-   
-   
-   
+fimalgoritmo
 
 
-   
+
+
+
+
 
 
 
