@@ -16,8 +16,8 @@ Este repositório serve como acompanhamento do botcamp realizando no programa st
 
 ## Tecnologias Utilizadas
 
-- Java
-- Lógica de programação
+- JAVA
+- LÓGICA DE PROGRAMAÇÃO
 
 ## Contato
 Se você tiver alguma dúvida, comentário ou feedback, sinta-se à vontade para entrar em contato:
